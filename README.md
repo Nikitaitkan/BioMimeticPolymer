@@ -102,7 +102,7 @@ Wastewater → Polymer Column → Treated Water
 ---
 
 ## Report
-[View Full Report](PASTE_YOUR_PDF_LINK_HERE)
+[View Full Report](https://github.com/Nikitaitkan/BioMimeticPolymer/blob/6b3f5069e669d2d921c7bade3581dd5e83a7cb3c/BiomimeticSugarDerivedPolymer_Report.pdf)
 
 ---
 
